@@ -66,8 +66,3 @@ research integrity.
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giuliozing&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=graywhite" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliozing&layout=compact&hide_border=true&theme=graywhite&langs_count=6" alt="Top languages" height="150">
-</p>
