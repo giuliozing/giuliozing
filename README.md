@@ -19,7 +19,7 @@ I am a Computer Science MSc student at ETH Zürich (Major in Machine Intelligenc
 adversarial machine learning: I build AI systems and then stress-test them adversarially to make
 them dependable.
 
-I have collaborated with research groups at **Cambridge**, **Oxford**, and **Northeastern University**,
+I have collaborated with research groups at **MIT**, **Cambridge**, **Oxford**, and **Northeastern University**,
 as well as European labs, on secure AI agents, adversarial ML, federated learning, and AI-driven
 research integrity.
 
