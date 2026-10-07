@@ -20,7 +20,7 @@ and was previously at the **University of Cambridge**, where I worked on securin
 
 ---
 
-### Current & Recent Research
+### Research
 
 **MIT** — Visiting Student Researcher · *Sep 2026 – present*<br>
 Agentic architectures for research and harness optimization (also my ETH semester project).<br>
@@ -35,15 +35,20 @@ Group of Prof. Robert Mullins · Supervisor: Hanna Foerster
 > *Agents in the Wild Workshop @ NeurIPS 2026* (accepted) · under review at *ICLR 2027*<br>
 > 💻 Code: **[securing-cuas-against-branch-steering](https://github.com/giuliozing/securing-cuas-against-branch-steering)**
 
-<details>
-<summary><b>Other research</b></summary>
-<br>
+**University of Oxford** — Visiting Student Researcher, Torr Vision Lab · *Feb 2026 – Jun 2026*<br>
+AI Scientists: benchmarking research agents for plagiarism and research-integrity risks.<br>
+Group of Prof. Philip Torr · Supervisor: Junchi Yu
 
-- **Northeastern University** (hybrid, Dec 2025 – present) — secure over-the-air federated learning algorithms. Group of Prof. Francesco Restuccia · Supervisor: Dr. Francesca Meneghello
-- **University of Oxford**, Torr Vision Lab (remote, Feb – Jun 2026) — AI Scientists: benchmarking research agents for plagiarism and research-integrity risks. Group of Prof. Philip Torr · Supervisor: Junchi Yu
-- **Sant'Anna School of Advanced Studies**, TeCIP Institute & **CNIT**, PNTLab (Pisa, 2024 – 2026) — adversarial attacks and defences for in-switch neural networks for network intrusion detection, including the EU project CLEVER
+**Northeastern University** — Visiting Student Researcher, Mentis Group · *Dec 2025 – present*<br>
+Secure over-the-air federated learning algorithms.<br>
+Group of Prof. Francesco Restuccia · Supervisor: Dr. Francesca Meneghello
 
-</details>
+**Sant'Anna School of Advanced Studies** — Research Assistant, TeCIP Institute · *Jun 2024 – May 2026*<br>
+Adversarial attacks and defences for in-switch neural networks for network intrusion detection, including wire-speed defences.
+
+**CNIT** — Research Intern, PNTLab · *Jan 2025 – Jul 2025*<br>
+Six-month research contract on the EU project CLEVER: adversarial AI for network intrusion detection.<br>
+Scientific coordinator: Ing. Filippo Cugini
 
 ---
 
